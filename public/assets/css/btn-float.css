@@ -1,0 +1,24 @@
+.float{
+	position:fixed;
+	width:60px;
+	height: 50px;
+	bottom: 0px;
+	right:20px;
+	background-color:#0C9;
+	color:white;
+	/* border-radius:50px; */
+	text-align:center;
+	box-shadow: 1px 1px 2px #999;
+	z-index:  999999999;
+	/* padding-bottom: 20px; */
+}
+.float i{
+	color:white!important;
+	font-size: 30px;
+	margin-top:15px;
+}
+.float:hover{
+	cursor: pointer;
+	color:white;
+	background-color: #4A9FDA;
+}

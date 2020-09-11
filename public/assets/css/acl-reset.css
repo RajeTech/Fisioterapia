@@ -1,0 +1,65 @@
+*{margin: 0px; padding: 0px;}
+a{text-decoration: none;}
+img{max-width: 100%;}
+.container{
+    width: 100%;
+}
+.btn-success {
+    color: #fff;
+    background-color: #122f7d;
+    border-color: #122f7d;
+}
+.btn-success {
+    background-image: -webkit-linear-gradient(top,#122f7d 0,#122f7d 100%);
+    background-image: -o-linear-gradient(top,#5cb85c 0,#419641 100%);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#122f7d),to(#122f7d));
+    background-image: linear-gradient(to bottom,#122f7d 0,#122f7d 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5cb85c', endColorstr='#ff419641', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+    background-repeat: repeat-x;
+    border-color: #122f7d;
+}
+.btn-success:focus, .btn-success:hover {
+    background-color: #122f7d;
+    background-position: 0 -15px;
+}
+.btn-success:focus, .btn-success:hover {
+    background-color: #122f7d;
+    background-position: 0 -15px;
+}
+.btn-success:hover {
+    color: #fff;
+    background-color: #122f7d;
+    border-color: #122f7d;
+}
+.btn.focus, .btn:focus, .btn:hover {
+    color: #122f7d;
+    text-decoration: none;
+}
+.btn-success {
+    background-image: -webkit-linear-gradient(top,#122f7d 0,#122f7d 100%);
+    background-image: -o-linear-gradient(top,#5cb85c 0,#419641 100%);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#122f7d),to(#122f7d));
+    background-image: linear-gradient(to bottom,#122f7d 0,#122f7d 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5cb85c', endColorstr='#ff419641', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+    background-repeat: repeat-x;
+    border-color: #122f7d;
+}
+.btn-success {
+    color: #fff;
+    background-color: #122f7d;
+    border-color: #122f7d;
+}
+.btn-success:hover {
+    color: #fff;
+    background-color: #122f7d;
+    border-color: #122f7d;
+}
+table{
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+    padding: 6px 0px;
+}
